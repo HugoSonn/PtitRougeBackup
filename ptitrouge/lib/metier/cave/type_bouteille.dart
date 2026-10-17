@@ -1,0 +1,4 @@
+enum TypeBouteille {
+  VIN,
+  SPIRITUEUX
+}
